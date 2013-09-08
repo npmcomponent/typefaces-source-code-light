@@ -1,0 +1,15 @@
+{
+  "name": "source-code-light",
+  "repo": "typefaces/source-code-light",
+  "description": "The Source Code light typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "fonts": [
+    "fonts/source-code-light.eot",
+    "fonts/source-code-light.ttf",
+    "fonts/source-code-light.woff"
+  ]
+}

@@ -1,0 +1,10 @@
+
+@font-face {
+  font-family: 'Source Code';
+  src: url('fonts/source-code-light.eot');
+  src: url('fonts/source-code-light.eot?#iefix') format('embedded-opentype'),
+       url('fonts/source-code-light.woff') format('woff'),
+       url('fonts/source-code-light.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
