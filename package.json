@@ -1,0 +1,10 @@
+{
+  "name": "typefaces-source-code-light",
+  "description": "The Source Code light typeface.",
+  "version": "0.0.1",
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
